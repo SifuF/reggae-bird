@@ -1,3 +1,4 @@
+-- Reggae Bird by SifuF
 local physics = require("physics")
 physics.start()
 physics.setGravity( 0, 16 )
