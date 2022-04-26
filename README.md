@@ -1,4 +1,4 @@
-# reggae-bird
+# Reggae Bird
 Flappy Bird clone for Android.  Sunshine reggae music themed game written in Lua using the Solar2d/Corona SDK. Code, graphics, and music by SifuF featuring vocals by [IF-RACING](https://github.com/IF-RACING)
 
 ![alt text](img/demo.gif)
@@ -8,3 +8,5 @@ Download and install [**CoronaSDK/Solar2d**](https://solar2d.com/) and clone the
 
 ## Build APK
 Once the game is running in the simulator, ```File -> Build -> Android``` will create an APK that can be installed on any Android device (you will need to check 'untrusted sources' in your device settings).
+
+#### [Click here for video](img/reggaeBird.mp4)
